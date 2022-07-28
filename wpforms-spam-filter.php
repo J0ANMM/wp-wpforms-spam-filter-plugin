@@ -86,7 +86,6 @@ function wpf_dev_check_for_urls( $field_id, $field_submit, $form_data ) {
 	wpforms()->process->errors[ $form_data['id'] ][ $field_id ] = esc_html__( 'No URLs allowed.', 'wpforms' );
 	return;
 	} 
-
 }
 add_action( 'wpforms_process_validate_textarea', 'wpf_dev_check_for_urls', 10, 3 );
 add_action( 'wpforms_process_validate_text', 'wpf_dev_check_for_urls', 10, 3 );
