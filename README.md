@@ -21,6 +21,7 @@ It has been adapted to:
 5. Done
 
 ## Useful resources
-- https://thebizpixie.com/article/stop-wpforms-spam-using-comment-blacklist-field/
-- https://wpforms.com/developers/how-to-block-urls-inside-the-form-fields/
-- https://permalinkmanager.pro/blog/how-to-add-php-snippet-to-wordpress-3-methods/
+- [WPForms Spam Filtering Using the Comment Blacklist Field - The Biz Pixie](https://thebizpixie.com/article/stop-wpforms-spam-using-comment-blacklist-field/)
+- [How to Block URLs Inside the Form Fields Introduction - wpforms.com](https://wpforms.com/developers/how-to-block-urls-inside-the-form-fields/)
+- [How to Create a Simple WordPress Plugin | 2021 WordPress Tutorial](https://www.youtube.com/watch?v=7REUdrDM_uE) (Youtube Video)
+- [How to add PHP snippet to WordPress? - permalinkmanager.pro](https://permalinkmanager.pro/blog/how-to-add-php-snippet-to-wordpress-3-methods/)
