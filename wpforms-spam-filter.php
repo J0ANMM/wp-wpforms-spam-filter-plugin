@@ -20,8 +20,6 @@
 
 
 function nhs_wpforms_email_blacklist( $honeypot, $fields, $entry, $form_data ) {
-
-	// print_r( $form_data );
 	
 	// Get comment blacklist values
 	$mod_keys = trim( get_option( 'blacklist_keys' ) );
